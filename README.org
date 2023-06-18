@@ -4,7 +4,6 @@ This is a basic lexer written in PHP. It demonstrates how to tokenize a string b
 
 *** Usage
 
-1. Create a new instance of the `Lexer` class by providing the input string:
+1. Create a new instance of the *Lexer* class by providing the input string:
 
-   ```php
-   $lexer = new Lexer('3 + 2 * 4');
+   ~$lexer = new Lexer('3 + 2 * 4');~
